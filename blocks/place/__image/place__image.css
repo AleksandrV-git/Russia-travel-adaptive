@@ -1,0 +1,32 @@
+.place__image {
+  margin: 60px 0 0;
+  width: 46.7%;
+  height: 100%;
+}
+
+@media screen and (max-width: 1279px) {
+  .place__image {
+    margin: 40px 0 0;
+    width: 47.5%;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .place__image {
+    width: 47.2%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .place__image {
+    margin: 32px 0 0;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 424px) {
+  .place__image {
+    margin: 32px -16px 0;
+    width: calc(100% + 32px);
+  }
+}

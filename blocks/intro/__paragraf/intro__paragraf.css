@@ -1,0 +1,16 @@
+.intro__paragraf {
+  max-width: 683px;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  margin: 48px 0 0;
+}
+
+@media screen and (max-width: 767px) {
+  .intro__paragraf {
+    font-size: 16px;
+    line-height: 27px;
+    margin: 32px 0 0;
+  }
+}
+

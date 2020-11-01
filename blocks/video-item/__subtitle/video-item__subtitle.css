@@ -1,0 +1,15 @@
+.video-item__subtitle {
+  position: relative;
+  max-width: 200px;
+  margin: 18px 0 0;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 15px;
+}
+
+
+@media screen and (max-width: 1023px) {
+  .video-item__subtitle {
+    margin: 12px 0 0;
+  }
+}

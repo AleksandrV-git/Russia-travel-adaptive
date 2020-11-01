@@ -1,0 +1,9 @@
+.content__comments {
+  margin: 102px auto 0;
+}
+
+@media screen and (max-width: 767px) {
+  .content__comments {
+    margin: 64px auto 0;
+  }
+}

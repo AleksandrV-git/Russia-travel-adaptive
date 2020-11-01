@@ -1,0 +1,9 @@
+.places__place {
+  margin: 72PX auto 0 auto;
+}
+
+@media screen and (max-width: 767px) {
+  .places__place{
+    margin: 48PX auto 0 auto;
+  }
+}

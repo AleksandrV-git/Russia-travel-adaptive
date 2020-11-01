@@ -1,0 +1,21 @@
+@import url(./__paragraf/intro__paragraf.css);
+@import url(./__text-list-item/intro__text-list-item.css);
+@import url(./__text/intro__text.css);
+@import url(./__title/intro__title.css);
+@import url(./__text-digits/intro__text-digits.css);
+
+
+.intro {
+  max-width: 984px;
+  color: #FFFFFF;
+}
+
+
+
+
+
+
+
+
+
+
