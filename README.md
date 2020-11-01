@@ -5,5 +5,5 @@
 Учебный проект. Верстка по макету. Адаптивный одностраничный сайт. CSS разбит по БЭМ.
 
 ## Ссылка на github pages:
-https:
+https://aleksandrv-git.github.io/Russia-travel-adaptive/
 
